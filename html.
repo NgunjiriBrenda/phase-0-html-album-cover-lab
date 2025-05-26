@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page title</title>
+
+<h1>My first Heading</h1>
+<p>This is my first paragraph>/p>
+
+</html>
+</body>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>This is heading 1>/h1>
+<h2>This is heading 2>/h2>
+<h3>This is heading 3>/h3>
+<h4>This is heading 4>/h4>
+<h5>This is heading 5>/h5>
+<h6>This is heading 6>/h6>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML links</h2>
+<p>HTML links are defined with a tag:</p>
+
+<a href="https://www.tiktok.com">This is a link</a>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Hello,my name is Brenda.<br>I will be 
+
+
